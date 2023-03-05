@@ -1,0 +1,67 @@
+body
+{
+    text-align: center;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#ddeb60 20%, #ae276d 80%);
+    display: table;
+    width: 100% ;
+    height: 100% ;
+    z-index: 9;
+}
+img{
+    width: 250px;
+    float: left;
+
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: #ae276d;
+}
+
+.line {
+    height: 6px;
+    background-color: #de0d0d;
+    width: 200px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+#videos iframe
+{
+    width: 60%;
+}
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+#myNavbar{
+   text-align: center; 
+}
+#welcome h1{
+   color: #3bae27;
+}
